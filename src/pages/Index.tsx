@@ -94,7 +94,7 @@ const Index = () => {
             <span className="inline-block ml-3 animate-float-slow">🐾</span>
           </h1>
           <p className="text-muted-foreground text-base md:text-lg max-w-lg mx-auto">
-            O Espaço Natural Pet Shop vai entregar uma cesta de Páscoa especial para um dos nossos clientes queridos. Cole a lista de participantes e descubra o sortudo!
+            Cole a lista de participantes e descubra o sortudo!
           </p>
         </header>
 
