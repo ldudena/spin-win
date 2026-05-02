@@ -161,8 +161,8 @@ const Index = () => {
                 </>
               )}
 
-              <p className={`text-xs font-bold uppercase tracking-[0.3em] mb-4 mt-6 ${finalizado ? "text-accent-foreground/80" : "text-primary/70"}`}>
-                {estaSorteando ? "Quem leva a cesta..." : "🏆 Ganhador(a) da Cesta 🏆"}
+              <p className={`font-bold uppercase tracking-[0.3em] mb-6 mt-6 ${finalizado ? "text-accent-foreground/80 text-base md:text-xl" : "text-primary/70 text-sm md:text-lg"}`}>
+                {estaSorteando ? "O grande vencedor é..." : "🏆 Ganhador(a) da Cesta 🏆"}
               </p>
 
               <div
