@@ -78,7 +78,7 @@ const Index = () => {
               <img
                 src={logo}
                 alt="Espaço Natural Pet Shop — Clínica veterinária, banho & tosa"
-                className="h-20 md:h-24 w-auto"
+                className="h-32 md:h-44 w-auto"
               />
             </div>
           </div>
@@ -93,9 +93,6 @@ const Index = () => {
             <span className="text-foreground">Cesta de Páscoa</span>
             <span className="inline-block ml-3 animate-float-slow">🐾</span>
           </h1>
-          <p className="text-muted-foreground text-base md:text-lg max-w-lg mx-auto">
-            Cole a lista de participantes e descubra o sortudo!
-          </p>
         </header>
 
         <main className="bg-card rounded-[2rem] border border-border shadow-elegant overflow-hidden backdrop-blur-sm">
